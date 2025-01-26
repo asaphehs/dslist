@@ -35,4 +35,3 @@ public class GameListController {
     }
 }
 
-d
